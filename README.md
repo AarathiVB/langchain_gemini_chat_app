@@ -1,5 +1,5 @@
-# **LangChain Chat App with Gemini**
-A **simple yet powerful chatbot** built using **LangChain**, **Google Gemini-1.5-Pro**, and **Streamlit**. This project demonstrates how to use LangChain’s **implicit chaining (`|` operator)** to process user queries efficiently.
+# **Google Gemini-1.5-Pro Chat App**
+A **simple yet powerful chatbot** built using **Google Gemini-1.5-Pro**, **LangChain**, and **Streamlit**. This project demonstrates how to use LangChain’s **implicit chaining (`|` operator)** to process user queries efficiently.
 
 ---
 
