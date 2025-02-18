@@ -24,7 +24,7 @@ prompt=ChatPromptTemplate.from_messages(
 
 
 
-st.title('Langchain Chat App With Gemini')
+st.title('Langchain Chat App with Gemini')
 input_text=st.text_input("Enter your question here")
 
 
